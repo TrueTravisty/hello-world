@@ -1,2 +1,2 @@
 # hello-world
-wtf how do i repository
+oh ok i kinda get it now
